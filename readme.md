@@ -3,7 +3,7 @@
 ![tracalorie](tracalorie.png)
 This is the Webpack version of the Tracalorie app using OOP's concepts.
 
-![OOP]{project_diagram.png}
+![OOP](project_diagram.png)
 
 ## Usage
 
@@ -29,4 +29,4 @@ npm run build
 
 Your production files will be in the `dist` folder.
 
-You can view the hosted version of this app at https://spectacular-souffle-a6e5f4.netlify.app
+You can view the hosted version of this app at https://sparkling-kashata-48b208.netlify.app
